@@ -84,7 +84,7 @@ p {
   justify-content: center;
   align-items: center;
   position: relative;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .full-info {
